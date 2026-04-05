@@ -16,3 +16,4 @@ Live Demo - https://hussam2717.github.io/Pokemon-Viewer-App/
 - CSS3
 - JavaScript (Vanilla JS)
 - PokéAPI (for fetching data)
+- 
