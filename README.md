@@ -11,7 +11,7 @@ Live Demo -
 - ⚡ Fast and responsive UI
 - 🎯 Predefined quick search buttons
 
-- ## 🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
